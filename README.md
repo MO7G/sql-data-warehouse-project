@@ -108,11 +108,15 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+## 🌟 About Me  
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **Mohamed Elhag**, also known as **HajjiByte**.  
+I’m a **Backend Software Engineer** passionate about **system design** and everything related to **data and distributed systems**.  
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+My focus is on building **scalable, reliable backend systems** and continuously exploring modern architecture patterns.  
+
+Let's stay in touch! You can connect with me on:  
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamed-elhag/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mo7g.com/)
